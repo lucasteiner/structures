@@ -1,4 +1,3 @@
-###total energy = Electronic single point energy (E_el(SPE)) + thermal corrections (G), negative frequencies below 100 cm-1 are turned in sign for calculation of G, note : directory-name
 44
 "3", E_el(SPE) = -3536821.66 kJ/mol, G = 862.25 kJ/mol, neg. freq. (1-3) = 0.0, 0.0, 0.0, note : 1-1/
 C     1.0299750    0.0105888   -1.0678551 
